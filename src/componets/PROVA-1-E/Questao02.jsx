@@ -29,7 +29,7 @@ const PokemonMoviemnto = () => {
   return (
     <div>
       <img src={imagelocal} alt="Pokemon" style={{width:"400px"}} />
-      <button onClick={botaoClick}>Mexer imagem </button>
+      <button onClick={botaoClick}>Mexer Imagem </button>
     </div>
   );
 };
